@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NetworkMonitor</string>
+    <string name="ping_button">Ping</string>
+    <string name="back_button">Back Button</string>
+    <string name="ping_title">Ping</string>
+    <string name="udpsender_title">UDP Sender</string>
+    <string name="experiment_title">Experiment</string>
+    <string name="description_nav_item_app_bar">Toggle drawer</string>
+    <string name="ping_input_placeholder">Enter IP or Domain</string>
+    <string name="special_use_fgs_justification">This foreground service is used to monitor network activity and send UDP messages immediately after device boot to ensure continuous network monitoring for IoT connectivity.</string>
+</resources>
